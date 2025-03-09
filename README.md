@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/sabdullahcxd" target="blank"><img src="https://img.shields.io/twitter/follow/sabdullahcxd?logo=twitter&style=for-the-badge" alt="sabdullahcxd" /></a> </p>
 
-- 🔭 I’m currently working on [Portables](https://github.com/abdullahcxd/portables)
+- 🔭 I’m currently working on [Monterey.js](https://github.com/abdullahcxd/monterey.js)
 
 - 🌱 I’m currently learning **React, React-Native, Typescript, Java, Next**
 
@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **Any project**
 
-- 👨‍💻 All of my projects are available at [https://abdullahcxd.link](https://abdullahcxd.link)
+- 👨‍💻 All of my projects are available at [https://abdullahcxd.is-a.dev](https://abdullahcxd.is-a.dev)
 
 - 💬 Ask me about **React, Next, Typescript**
 
